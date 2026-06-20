@@ -4,8 +4,8 @@ This repository contains hardware designs and implementations for custom MIPS ar
 
 ---
 
-## 🛠️ Mini MIPS Processor (32-bit Multi-Cycle)
-**Academic Project** | *CS220 - Prof. Mainak Chaudhuri (Apr 2026)*
+## Mini MIPS Processor (32-bit Multi-Cycle)
+**Academic Project** | *CS220 - Prof. Mainak Chaudhuri *
 
 A custom-designed 3-cycle, 32-bit MIPS processor implemented in Verilog. It is built to support a robust Instruction Set Architecture (ISA) including complex arithmetic, control flow, and memory operations.
 
@@ -16,7 +16,3 @@ A custom-designed 3-cycle, 32-bit MIPS processor implemented in Verilog. It is b
 * **System-on-Chip Integration:** Packaged and integrated the processor as a custom **AXI4 IP** using Xilinx Vivado.
 * **Validation:** Verified functional hardware correctness by executing MIPS assembly code directly through the Vitis IDE.
 
-### Tech Stack
-* **Language:** Verilog
-* **Tools:** Xilinx Vivado, Vitis IDE
-* **Protocols:** AXI4
